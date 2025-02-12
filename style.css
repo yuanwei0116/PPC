@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec;
+}
+
+h1 {
+    color: #d81b60;
+}
+
+#doll {
+    width: 200px;
+    transition: transform 0.3s ease;
+}
+
+button {
+    background-color: #ff4081;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #c51162;
+}
+
+#foodCounter {
+    font-size: 20px;
+    margin-top: 10px;
+}
