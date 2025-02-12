@@ -16,7 +16,7 @@ feedButton.addEventListener("click", function () {
         alert("被阿框搶劫!");
         setTimeout(() => {
             doll.src = randomFeedingImage;
-        }, 1000);
+        }, 3000);
     }
     setTimeout(() => {
         doll.src = "ppc.jpg";
